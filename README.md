@@ -60,11 +60,12 @@ train.csv - the training set test.csv - the test set sample_submission.csv - a s
 
 Файлы в репозитории Репозиторий содержит два ноутбуки:
 
-car_price_part2_best_final.ipynb - командный проект car-price-part2_eda.ipynb - EDA baseline - промежуточный с личными экспериментами
+car_price_part2_best_final.ipynb - командный проект car-price-part2_eda.ipynb - EDA baseline - промежуточный с экспериментами
+sf_dst_car_price_part2_-FA-LRA.ipynb - с LR-Cycle.
 
 Никнейм на Kaggle -Pawel_MTW
 
-Значение метрики, которого удалось добиться 10.78708
+Значение метрики, которого удалось добиться 10.78708 (на NN1,  простая нейросеть на табличных данных).
 
 Ответы на вопросы Какой частью своей работы вы остались особенно довольны?
 
